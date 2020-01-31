@@ -1,10 +1,4 @@
-# demetoir.github.io
-
-* todo add link
-
-
-
-
+# [demetoir.github.io](https://demetoir.github.io/)
 
 ## upload
 * require ruby  2.5^
